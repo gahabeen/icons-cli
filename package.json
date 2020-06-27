@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gahabeen/icons-cli"
+  },
   "dependencies": {
     "axios": "^0.19.2",
     "clipboardy": "^2.3.0",
