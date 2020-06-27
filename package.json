@@ -1,0 +1,14 @@
+{
+  "name": "icons-cli",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "clipboardy": "^2.3.0",
+    "lowdb": "^1.0.0"
+  },
+  "bin": {
+    "icons": "./index.js"
+  }
+}
